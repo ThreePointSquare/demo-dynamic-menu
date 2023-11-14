@@ -1,0 +1,126 @@
+{
+    "menu": {
+      "id": "mry-dynamic-menu",
+      "items": [
+        {
+          "label": "Home",
+          "url": "index.html",
+          "class": "menu-item menu-item-has-children current-menu-item",
+          "children": []
+        },
+        {
+          "label": "About",
+          "url": "404/index.html",
+          "class": "menu-item",
+          "children": []
+        },
+        {
+          "label": "Computational Design",
+          "url": "#",
+          "class": "menu-item menu-item-has-children",
+          "children": [
+            {
+              "label": "Particle Systems",
+              "url": "http://storm-three-point-square.vercel.app",
+              "class": "menu-item",
+              "children": []
+            },
+            {
+              "label": "Agent Based Modeling",
+              "url": "http://gis-three-point-square.vercel.app",
+              "class": "menu-item",
+              "children": []
+            },
+            {
+              "label": "Computational Fluid Dynamics",
+              "url": "http://fluids-three-point-square.vercel.app",
+              "class": "menu-item",
+              "children": []
+            }
+          ]
+        },
+        {
+          "label": "Web Applications",
+          "url": "#",
+          "class": "menu-item menu-item-has-children",
+          "children": [
+            {
+              "label": "ThreeJS Visual Progrmamming",
+              "url": "http://modals-three-point-square.vercel.app",
+              "class": "menu-item",
+              "children": []
+            }
+          ]
+        },
+        {
+          "label": "Learning",
+          "url": "#",
+          "class": "menu-item menu-item-has-children",
+          "children": [
+            {
+              "label": "Revit Tutorials",
+              "url": "learning-revit.html",
+              "class": "menu-item",
+              "children": []
+            },
+            {
+              "label": "Grasshopper Tutorials",
+              "url": "learning-grasshopper.html",
+              "class": "menu-item",
+              "children": []
+            },
+            {
+              "label": "Dynamo For Interiors",
+              "url": "learning-dynamo.html",
+              "class": "menu-item",
+              "children": []
+            },
+            {
+              "label": "Adobe AEC Suite Tutorials",
+              "url": "learning-adobe.html",
+              "class": "menu-item",
+              "children": []
+            },
+            {
+              "label": "3ds Max and Vray Tutorials",
+              "url": "learning-vray.html",
+              "class": "menu-item",
+              "children": []
+            }
+          ]
+        },
+        {
+          "label": "Plugins",
+          "url": "#",
+          "class": "menu-item menu-item-has-children",
+          "children": [
+            {
+              "label": "Rhino - MongoDB",
+              "url": "plugins-mongodb.html",
+              "class": "menu-item",
+              "children": []
+            },
+            {
+              "label": "Rhino - Nexus",
+              "url": "plugins-nexus.html",
+              "class": "menu-item",
+              "children": []
+            },
+            {
+              "label": "Rhino - Mocking Bird",
+              "url": "learning-mockingbird.html",
+              "class": "menu-item",
+              "children": []
+            }
+          ]
+        },
+        {
+          "label": "Contact",
+          "url": "contact.html",
+          "class": "menu-item",
+          "children": []
+        }
+      ]
+    }
+  }
+  
